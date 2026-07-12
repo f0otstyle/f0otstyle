@@ -8,7 +8,6 @@ Python-разработчик, интересуюсь бэкендом и авт
 -  Git
 
 ## 🚀 Проекты
-- [KHL Card Game Bot](https://github.com/f0otstyle/khl-telegram-bot) — Telegram бот с карточной игрой на основе КХЛ
 - [concurrency-lab] — 
 - [foodgram] — Продуктовый помощник
 
