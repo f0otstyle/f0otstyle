@@ -4,7 +4,7 @@ Python-разработчик, интересуюсь бэкендом и авт
 
 ## 🛠️ Технологии
 - Python, FastAPI, Django
-- PostgreSQL, Docker
+- PostgreSQL, Docker, Pytest
 -  Git
 
 ## 🚀 Проекты
