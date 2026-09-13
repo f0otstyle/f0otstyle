@@ -9,7 +9,7 @@ Python-разработчик, интересуюсь бэкендом и авт
 
 ## 🚀 Проекты
 - [python-backend-lab] — Исследование параллелизма, асинхронности и бэкенд-разработки на Python.
-- [foodgram] — Продуктовый помощник
+- [python-backend-taxi-api] — REST API сервиса заказа такси на FastAPI
 
 ## 📫 Контакты
 - Telegram: @f0otstyle
