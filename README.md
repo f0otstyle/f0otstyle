@@ -8,7 +8,7 @@ Python-разработчик, интересуюсь бэкендом и авт
 -  Git
 
 ## 🚀 Проекты
-- [python-backend-lab] — Исследования.
+- **[python-backend-lab](https://github.com/f0otstyle/python-backend-lab)** — Исследования.
    - Здесь проводятся эксперименты (конкурентность, асинхронность, Redis, RabbitMQ).
    - Здесь хранится *первая, сырая версия* проекта такси, которая использовалась как черновик 
 - **[python-backend-taxi-api](https://github.com/f0otstyle/python-backend-taxi-api)** - Актуальный REST API сервиса заказа такси на FastAPI.
